@@ -1,0 +1,15 @@
+streamlit
+pandas
+plotly
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-groq
+langgraph
+python-dotenv
+openpyxl
+faiss-cpu>=1.7.4
+langchain-huggingface>=0.0.1
+sentence-transformers>=2.2.2
+pypdf>=3.17.0
